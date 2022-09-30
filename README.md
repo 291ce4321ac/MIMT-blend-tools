@@ -1,4 +1,4 @@
-# blendtools
+# MIMT-blend-tools
 Image blending and compositing tools from MIMT
 
 https://www.mathworks.com/matlabcentral/fileexchange/52513-image-blending-functions
